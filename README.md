@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavankumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumar&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumar" /> </p>
-
 <p align="left"> <a href="https://twitter.com/pavan kumar gurrala" target="blank"><img src="https://img.shields.io/twitter/follow/pavan kumar gurrala?logo=twitter&style=for-the-badge" alt="pavan kumar gurrala" /></a> </p>
 
 - 📫 How to reach me **pavankumar799544@gamil.com**
